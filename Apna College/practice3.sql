@@ -1,0 +1,1 @@
+INSERT into student values(1,"rahul", 20);
