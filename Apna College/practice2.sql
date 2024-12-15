@@ -7,3 +7,4 @@ CREATE table student(
     age INT NOT NULL
 );
 desc student;
+show tables;
